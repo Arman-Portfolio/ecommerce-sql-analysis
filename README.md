@@ -84,6 +84,17 @@ Relational database with multiple joins:
 * Specific products dominate total sales
 * Payment methods vary significantly across regions
 
+## 🚀 Advanced Analysis
+
+* Built a master dataset using multi-table joins (7+ tables)
+* Performed Customer Lifetime Value (CLV) analysis
+* Conducted RFM segmentation (Recency, Frequency, Monetary)
+* Analyzed delivery delays and logistics performance
+* Evaluated seller and product category performance
+* Calculated monthly growth rate using window functions
+* Analyzed impact of customer reviews on revenue
+
+
 ---
 
 ## What I Learned
